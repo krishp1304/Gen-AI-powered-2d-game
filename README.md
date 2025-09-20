@@ -30,6 +30,6 @@ It uses **Python (Flask/Streamlit)** on the backend and **HTML, CSS, JavaScript*
 
 ## ▶️ Usage
 1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/your-username/Gen-Ai-powered-2D-Game.git
-   cd Gen-Ai-powered-2D-Game
+2. **Install dependencies**: pip install -r requirements.txt
+3. **Run the backend**: python app.py
+4. **Open the browser at** http://localhost:5000 to start generating games.
